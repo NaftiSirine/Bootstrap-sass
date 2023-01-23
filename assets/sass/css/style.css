@@ -1,0 +1,65 @@
+.nav-link {
+  color: #314584;
+  font-family: "WorkSans-Regular", regular;
+}
+
+.title {
+  font-family: "WorkSans-SemiBold", sans-serif;
+  color: #314584;
+  font-size: 2rem;
+}
+
+.paragraph {
+  font-family: "WorkSans-SemiBold", sans-serif;
+  color: #6e757a;
+}
+
+.btn {
+  background-color: #ff3946;
+}
+
+.title2 {
+  font-family: "WorkSans-SemiBold", sans-serif;
+  color: #314584;
+  font-size: 1rem;
+}
+
+.paragraph2 {
+  font-family: "WorkSans-SemiBold", sans-serif;
+  color: #314584;
+  font-size: 0.6rem;
+}
+
+.bgcolor {
+  background-color: #ff3946;
+}
+
+.hrcolor {
+  background-color: #ff3946;
+}
+
+.touch {
+  font-family: "WorkSans-SemiBold", sans-serif;
+  color: #314584;
+  font-size: 1.2rem;
+}
+
+.bgcolor2 {
+  background-color: #314584;
+}
+
+.creativity {
+  font-family: "WorkSans-SemiBold", sans-serif;
+  color: #ff3946;
+  font-size: 1.2rem;
+}
+
+.footer {
+  background-color: #314584;
+}
+
+.end {
+  font-family: "WorkSans-Regular", regular;
+}
+
+/*# sourceMappingURL=style.css.map */
